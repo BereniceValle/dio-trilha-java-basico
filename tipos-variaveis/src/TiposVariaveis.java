@@ -16,19 +16,19 @@ public class TiposVariaveis {
 
         numero = 10;
 
-        System.out.print(numero);
+        System.out.println(numero);
 
         //inserir quebra de linha
         double VALOR_DE_PI = 3.14;
         VALOR_DE_PI = 10.75;
         
-        System.out.print(VALOR_DE_PI);
+        System.out.println(VALOR_DE_PI);
 
         //inserir outra quebra de linha
         final double NOTA = 3.14;
        // NOTA = 10.75; não pode ser alterado pq "final" + nome da variável em caixa alta trava 
        //para não sofrer alteração
 
-        System.out.print(NOTA);
+        System.out.println(NOTA);
     }
 }
